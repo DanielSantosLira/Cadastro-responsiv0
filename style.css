@@ -13,14 +13,13 @@ body {
     background-color: rgb(61, 11, 11);
 
 }
-
-.texto {
+.texto{
     font-size: 30px;
     color: black;
 }
 
 .conteiner {
-    width: 650px;
+    width: 600px;
     padding: 30px;
     box-shadow: 5px 5px 50 10px;
     margin: 230px;
@@ -31,8 +30,7 @@ body {
     margin-top: 30px;
 
 }
-
-.coluna {
+.coluna{
     display: block;
 }
 
@@ -48,12 +46,11 @@ body {
 
 }
 
-.linha3 {
+.linha3{
     display: flex;
     justify-content: space-around;
-
+    
 }
-
 label {
     display: block;
     padding: 5px;
@@ -62,34 +59,30 @@ label {
 
 input {
     padding: 5px;
-    width: 200px;
+width: 200px;
 }
 
 .texto {
     padding-bottom: 30px;
 }
 
-.button {
-    width: 450px;
-    margin: 0 auto;
+button {
+    width: 500px;
+    height: 250;
     text-align: center;
     color: white;
     background: black;
-    padding: 10px;
-    
-   
+    padding: 6px;
+    margin-bottom: 150px;
 
 
 
 }
-
-.email {
-   
+.email{
     width: 600px;
-    padding: 30px;
+    padding: 5px;
 }
-
-.rodape {
+.rodape{
     border: 15px solid royalblue;
     background: #696969;
     padding: 30px;
@@ -97,9 +90,7 @@ input {
     border-radius: 15px;
 
 }
-
-#email {
+#email{
     width: 500px;
-
-
 }
+
